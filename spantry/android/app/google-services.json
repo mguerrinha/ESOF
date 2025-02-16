@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73252815940",
+    "project_id": "spantry-1de44",
+    "storage_bucket": "spantry-1de44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73252815940:android:1202a082cfc8a38e39e811",
+        "android_client_info": {
+          "package_name": "com.example.spantry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH_QRjjOzHS4Y0Fgi5Z8_K0kUSeF_FhoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
